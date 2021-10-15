@@ -1,7 +1,7 @@
 # AIRAK-vision-depression-detection
 
 Repo navigation
-datasets - directory for datasets
+data - directory for datasets
 notebooks - for experimenting code
-sample - proven code as .py scripts, helper modules
+src - .py scripts
 tests - place unit tests for sample .py files
